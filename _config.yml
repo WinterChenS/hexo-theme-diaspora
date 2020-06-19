@@ -88,6 +88,9 @@ keywords: Luis
 # 要使用google_analytics进行统计的话，这里需要配置ID
 google_analytics: UA-155319408-1
 
+# 腾讯移动分析
+tencent_mta: 500722607
+
 # 网站ico
 favicon: /img/favicon.png
 
