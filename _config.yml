@@ -3,7 +3,6 @@ menu:
   首页: /
   作品: https://photo.winterchen.com
   游戏: /game
-  工具: /tools
   分类: /categories
   标签: /tags
   归档: /archives  
@@ -66,9 +65,9 @@ gitalk:
     # 是否自动展开评论框
     autoExpand: false
     # 应用编号
-    clientID: ''
+    clientID: '77f2adc33e0112d086d7'
     # 应用秘钥
-    clientSecret: ''
+    clientSecret: 'e926aa3a621556609b2c2b76d89320fa524e23cd'
     # issue仓库名
     repo: 'WinterChenS.github.io'
     # Github名
