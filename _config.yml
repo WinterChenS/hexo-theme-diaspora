@@ -61,7 +61,7 @@ beian:
 # Gitalk 评论插件（https://github.com/gitalk/gitalk）
 gitalk:
     # 是否启用评论功能
-    enable: false
+    enable: true
     # 是否自动展开评论框
     autoExpand: false
     # 应用编号
